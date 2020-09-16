@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.indira11-in.indira11.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.indira11-in.indira11.MyBundle
 
 class MyApplicationService {
 
